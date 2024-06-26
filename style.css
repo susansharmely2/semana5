@@ -1,0 +1,30 @@
+h1, h2 ,h3{
+    
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight:lighter;
+}
+h1{
+    color: rgb(218, 96, 14);
+    font-size: 40px;
+    text-align: center;
+}
+
+h2{
+    color: rgb(2, 71, 71);
+    font-size: 2em;
+}
+h3{
+    color: rgb(73, 157, 235);
+    font-size: 1.3rem;
+    
+}
+p{
+    color: rgb(110, 52, 25);
+    font-size: 2vh;
+    
+}
+li{
+    color: rgb(41, 5, 75);
+    text-decoration: underline;
+   
+ }
